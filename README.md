@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maadhuryad
 - 👀 I’m interested in becoming a programmer.
-- 🌱 I’m currently learning C, Python, and Javascript. 
+- 🌱 I’m currently learning Python and Javascript. 
 - 📫 How to reach me: maadhuryad@gmail.com
 
 <!---
